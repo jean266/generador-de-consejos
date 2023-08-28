@@ -32,7 +32,7 @@ Los usuarios deberían poder:
 ### Enlaces
 
 - URL de la solución: [Github](https://github.com/jean266/generador-de-consejos.git)
-- URL del sitio en vivo: [Vencel](https://address-ip.vercel.app/)
+- URL del sitio en vivo: [Vencel](https://generador-de-consejos.vercel.app/)
 
 ## Mi proceso
 
